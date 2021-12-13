@@ -6,7 +6,7 @@ import { Wrapper, Status } from "@googlemaps/react-wrapper";
 
 import GoogleMaps from '../GoogleMaps/GoogleMaps';
 
-const API_KEY = 'AIzaSyAyVaiyCnePVd_Vyy5Sr0tdJqv3ATzsLG4';
+const API_KEY = '';
 
 
 export default class Dashboard extends Component {
